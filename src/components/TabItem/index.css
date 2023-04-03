@@ -1,0 +1,19 @@
+.tab-button {
+  font-size: 28px;
+  color: #ffffff;
+  background-color: transparent;
+  border: none;
+  padding: 20px;
+}
+.name {
+  color: #ffffff;
+  font-size: 25px;
+  background-color: transparent;
+  outline: none;
+  font-family: 'Roboto';
+  border: none;
+}
+.active {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}

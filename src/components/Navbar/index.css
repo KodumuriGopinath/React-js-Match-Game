@@ -1,0 +1,34 @@
+.nav-bar {
+  background-color: #2c0e3a;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.game-website-logo {
+  height: 50px;
+  margin-left: 25px;
+}
+.score-nav {
+  font-size: 18px;
+  color: #ffffff;
+}
+.timer-image {
+  width: 25px;
+}
+.score-and-seconds {
+  display: flex;
+  flex-direction: row;
+  margin-right: 25px;
+}
+.timer-seconds {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 25px;
+}
+.seconds {
+  font-size: 18px;
+  color: #ffffff;
+  padding-left: 10px;
+}
